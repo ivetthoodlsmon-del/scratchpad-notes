@@ -1,0 +1,2 @@
+# scratchpad-notes
+exif stripper
